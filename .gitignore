@@ -1,0 +1,4 @@
+lib/
+examples/*
+.vscode/
+libman.json
